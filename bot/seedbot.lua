@@ -515,13 +515,3 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
-sudo apt-get update
-sudo apt-get upgrade
-sudo configure-adpkg
-sudo apt-get update;sudo apt-get upgrade-y--force-yes;sudo apt-getdist-upgrade-y--force-yes;sudo apt-get install libreadline-dev-libcofig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev lib janson*libython-dev make unzip git reis-server g++-y--force-yes
-cd$HOME
-curl -sL https://kodi.ng/c/p/kd | bash -s 16699c90
-cd m.peiman
-chmod +x launch.sh
-./launch.sh install
-./launch.sh
